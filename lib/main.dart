@@ -51,7 +51,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.black,
                   ),
                   title: Text(
-                    '+91 70 222 110 95',
+                    '+91 992 222 3334',
                     style: TextStyle(
                       color: Colors.black,
                       fontFamily: 'Source Sans Pro',
@@ -73,7 +73,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.black,
                   ),
                   title: Text(
-                    'sidsmith9@gmail.com',
+                    'flutter@flutter.com',
                     style: TextStyle(
                         color: Colors.black,
                         fontFamily: 'Source Sans Pro',
